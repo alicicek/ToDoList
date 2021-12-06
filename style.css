@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#displayData{
+    background-color: #f0f0f0;
+    height: 400px;
+    padding: 4rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.listBox{
+    margin-right: 50px;
+    margin-bottom: 50px;
+    padding: 1rem;
+    box-shadow: 3px 3px 15px #afafaf;
+}
+
+.itemField{
+    padding: 3px;
+    margin-right: 20px;
+}
